@@ -53,3 +53,87 @@ role: Full Stack & Creative Frontend Developer
 location: India
 interests: [UI/UX Physics, 3D Web Experiences, Scalable Web Apps, AI/ML]
 current_focus: Building performant, visually interactive digital products
+<div align="center">
+
+<img src="./assets/avatar-ring.svg" width="150" height="150" alt="Anant Yadav" />
+
+<br />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=460&lines=Hi+there%2C+I'm+Anant+Yadav;Full+Stack+Developer+%26+Designer;Building+modern+web+experiences;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anantyadav416-svg&label=Profile%20Views&color=1F2937&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
+
+<br />
+
+## About Me
+
+- Passionate about crafting fast, clean, and thoughtfully designed web applications
+- Exploring modern 3D web animation, UI/UX patterns, and scalable front-end architecture
+- Actively building full-stack projects and contributing to open source
+- Always open to interesting collaborations — reach out below
+
+<br />
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,py,git,github,figma,postman,vscode,docker&perline=8&theme=dark" alt="Tech Stack" />
+
+</div>
+
+<br />
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anantyadav416-svg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1&border_radius=8" height="165" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantyadav416-svg&hide_border=true&background=0D1117&ring=475569&fire=64748B&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&border_radius=8" height="165" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantyadav416-svg&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&border_radius=8" height="150" alt="Top Languages" />
+
+</div>
+
+<br />
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anantyadav416-svg/anantyadav416-svg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anantyadav416-svg/anantyadav416-svg/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/anantyadav416-svg/anantyadav416-svg/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br />
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/anantyadav416-svg" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/anant-yadav-439755413" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=E2E8F0" alt="LinkedIn" />
+</a>
+<a href="mailto:anantyadav025@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=E2E8F0" alt="Email" />
+</a>
+
+</div>
