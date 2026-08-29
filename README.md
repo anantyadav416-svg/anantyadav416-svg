@@ -115,25 +115,4 @@ current_focus: Building performant, visually interactive digital products
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anantyadav416-svg/anantyadav416-svg/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anantyadav416-svg/anantyadav416-svg/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/anantyadav416-svg/anantyadav416-svg/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<br />
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/anantyadav416-svg" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/anant-yadav-439755413" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=E2E8F0" alt="LinkedIn" />
-</a>
-<a href="mailto:anantyadav025@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=E2E8F0" alt="Email" />
-</a>
-
-</div>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/anantyadav416-svg/anantyadav416-svg/output/github-contribution-grid
