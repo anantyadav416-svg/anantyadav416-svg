@@ -55,25 +55,3 @@ interests: [UI/UX Physics, 3D Web Experiences, Scalable Web Apps, AI/ML]
 current_focus: Building performant, visually interactive digital products
 <div align="center">
 
-<img src="./assets/avatar-ring.svg" width="150" height="150" alt="Anant Yadav" />
-
-<br />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=460&lines=Hi+there%2C+I'm+Anant+Yadav;Full+Stack+Developer+%26+Designer;Building+modern+web+experiences;Open+Source+Enthusiast" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=anantyadav416-svg&label=Profile%20Views&color=1F2937&style=flat-square" alt="Profile Views" />
-</p>
-
-</div>
-
-<br />
-
-## About Me
-
-- Passionate about crafting fast, clean, and thoughtfully designed web applications
-- Exploring modern 3D web animation, UI/UX patterns, and scalable front-end architecture
-- Actively building full-stack projects and contributing to open source
-- Always open to interesting collaborations — reach out below
